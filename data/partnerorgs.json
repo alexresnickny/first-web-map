@@ -1,0 +1,275 @@
+[
+  {
+    "name": "Safe Passage Project",
+    "address": "185 West Broadway, New York, NY 10013",
+    "status": "Open",
+    "longitude": -74.00679596,
+    "latitude": 40.71791443
+  },
+  {
+    "name": "Legal Services NYC",
+    "address": "Location in every borough. 40 Worth St Suite 606, New York, NY 10013",
+    "status": "Open",
+    "longitude": -74.00700348,
+    "latitude": 40.71733454
+  },
+  {
+    "name": "Opportunities for a Better Tomorrow - ONA Opportunity Center",
+    "address": "25 Thornton St, Brooklyn, NY 11206",
+    "status": "Open",
+    "longitude": -73.94371828,
+    "latitude": 40.70119907
+  },
+  {
+    "name": "CUNY CitizenshipNow - ONA Opportunity Center",
+    "address": "5030 Broadway, Suite 615, New York, NY 10034",
+    "status": "Open",
+    "longitude": -73.91663918,
+    "latitude": 40.86885826
+  },
+  {
+    "name": "BronxWorks - ONA Opportunity Center",
+    "address": "50 E. Tremont Avenue, Bronx, NY 10453",
+    "status": "Open",
+    "longitude": -73.90845847,
+    "latitude": 40.85119566
+  },
+  {
+    "name": "Mercy Center, Inc. - ONA Opportunity Center",
+    "address": "332 E 149 Street, Bronx, NY 10451",
+    "status": "Open",
+    "longitude": -73.92028405,
+    "latitude": 40.81664386
+  },
+  {
+    "name": "Queens Borough Public Library - ONA Opportunity Center",
+    "address": "37-44 21st Street, Long Island City, NY 11101",
+    "status": "Open",
+    "longitude": -73.9393159,
+    "latitude": 40.75795731
+  },
+  {
+    "name": "NYLAG",
+    "address": "100 Pearl St 19th floor, New York, NY 10004",
+    "status": "Open",
+    "longitude": -74.00971804,
+    "latitude": 40.70415495
+  },
+  {
+    "name": "HIV Legal Project at Housing Works",
+    "address": "81 Willoughby St, Brooklyn, NY 11201",
+    "status": "Open",
+    "longitude": -73.98609493,
+    "latitude": 40.69256858
+  },
+  {
+    "name": "Hebrew Immigrant Aid Society (HIAS)",
+    "address": "411 5th Ave Ste 1006, New York, NY 10016",
+    "status": "Open",
+    "longitude": -73.98267523,
+    "latitude": 40.75053362
+  },
+  {
+    "name": "Mobilization for Justice",
+    "address": "100 William St, New York, NY 10038",
+    "status": "Open",
+    "longitude": -74.00715214,
+    "latitude": 40.70846957
+  },
+  {
+    "name": "Catholic Charities Immigration Services",
+    "address": "80 Maiden Lane, 13th floor, New York, NY 10038",
+    "status": "Open",
+    "longitude": -74.00765507,
+    "latitude": 40.70719524
+  },
+  {
+    "name": "Immigration Equality",
+    "address": "Lower Manhattan",
+    "status": "Open",
+    "longitude": -73.98935702,
+    "latitude": 40.75032617
+  },
+  {
+    "name": "The Door",
+    "address": "555 Broome St, NY, NY 10013",
+    "status": "Open",
+    "longitude": -74.00498199,
+    "latitude": 40.72417722
+  },
+  {
+    "name": "Human Rights First",
+    "address": "75 Broad St, 31st Floor, New York, NY 10004",
+    "status": "Open",
+    "longitude": -74.01123411,
+    "latitude": 40.70463071
+  },
+  {
+    "name": "Safe Horizon",
+    "address": "50 Court St, Brooklyn, NY 11201",
+    "status": "Open",
+    "longitude": -73.99145242,
+    "latitude": 40.69243501
+  },
+  {
+    "name": "City Bar Justice Center",
+    "address": "42 West 44th Street New York, NY 10036",
+    "status": "Open",
+    "longitude": -73.98220931,
+    "latitude": 40.75548478
+  },
+  {
+    "name": "After Hours Project",
+    "address": "1204 Broadway, Brooklyn, NY",
+    "status": "Unknown",
+    "longitude": -73.92690942,
+    "latitude": 40.69206508
+  },
+  {
+    "name": "Queer Detainee Empowerment Project (QDEP)",
+    "address": "505 8th Avenue #1212 New York, NY 11018",
+    "status": "Unknown",
+    "longitude": -73.99321634,
+    "latitude": 40.75330353
+  },
+  {
+    "name": "Brooklyn Defender Services",
+    "address": "177 Livingston Street 7th Floor Brooklyn, NY 11201",
+    "status": "Unknown",
+    "longitude": -73.98664902,
+    "latitude": 40.69038438
+  },
+  {
+    "name": "Camba Legal Services",
+    "address": "931 Flatbush Ave, Brooklyn, NY 11226",
+    "status": "Unknown",
+    "longitude": -73.95817796,
+    "latitude": 40.64907503
+  },
+  {
+    "name": "Inviolate Initiative",
+    "address": "106-28 Queens Blvd #751167, Forest Hills, NY 11375, United States",
+    "status": "Unknown",
+    "longitude": -73.84679492,
+    "latitude": 40.72193362
+  },
+  {
+    "name": "UJA Safety Net Program, Selfhelp Community Services Inc.",
+    "address": "520 8th Ave 5th floor, New York, NY 10018",
+    "status": "Unknown",
+    "longitude": -73.9920553,
+    "latitude": 40.75376103
+  },
+  {
+    "name": "RDJ Asylum Support",
+    "address": "521 W 126th St, New York, NY 10027",
+    "status": "Unknown",
+    "longitude": -73.95597764,
+    "latitude": 40.81493495
+  },
+  {
+    "name": "Alliance for Positive Change",
+    "address": "2036 Amsterdam Ave, New York, NY 10032",
+    "status": "Unknown",
+    "longitude": -73.94100637,
+    "latitude": 40.8356119
+  },
+  {
+    "name": "Anti-Violence Project",
+    "address": "116 Nassau St, New York, NY 10038",
+    "status": "Closed",
+    "longitude": -74.00704617,
+    "latitude": 40.71071031
+  },
+  {
+    "name": "Sanctuary for Families - Bronx",
+    "address": "198 East 161st Street\nBronx, NY 10451",
+    "status": "Closed",
+    "longitude": -73.92106754,
+    "latitude": 40.82601835
+  },
+  {
+    "name": "Sanctuary for Families - Brooklyn",
+    "address": "350 Jay Street, Brooklyn, NY 11201",
+    "status": "Unknown",
+    "longitude": -73.98759456,
+    "latitude": 40.69364036
+  },
+  {
+    "name": "Sanctuary for Families - Manhattan",
+    "address": "80 Centre Street New York, NY 10013",
+    "status": "Unknown",
+    "longitude": -74.00167953,
+    "latitude": 40.7154358
+  },
+  {
+    "name": "Sanctuary for Families - Queens",
+    "address": "126-02 82nd Avenue Kew Gardens, NY 11415",
+    "status": "Unknown",
+    "longitude": -73.82757872,
+    "latitude": 40.7135168
+  },
+  {
+    "name": "Sanctuary for Families - Staten Island",
+    "address": "126 Stuyvesant Place Staten Island, NY 10301",
+    "status": "Unknown",
+    "longitude": -74.07726187,
+    "latitude": 40.64300643
+  },
+  {
+    "name": "UnLocal",
+    "address": "45 W. 29th St. Suite 203 New York, NY 10001",
+    "status": "Closed",
+    "longitude": -73.98948911,
+    "latitude": 40.74656106
+  },
+  {
+    "name": "McCarter",
+    "address": "Worldwide Plaza, 825 Eighth Ave., 31st Flr., New York, NY 10019",
+    "status": "Closed",
+    "longitude": -73.98682963,
+    "latitude": 40.76225219
+  },
+  {
+    "name": "Paul Hastings",
+    "address": "MetLife Building, 200 Park Ave, New York, NY 10166",
+    "status": "Closed",
+    "longitude": -73.9766357,
+    "latitude": 40.75353472
+  },
+  {
+    "name": "Brooklyn Law School Safe Harbor Clinic",
+    "address": "111 Livingston Street, 20th Floor Brooklyn, NY",
+    "status": "Closed",
+    "longitude": -73.98986017,
+    "latitude": 40.69140081
+  },
+  {
+    "name": "Asylum Seeker Advocacy Project at Urban Justice Center",
+    "address": "40 Rector St, New York, NY 10006",
+    "status": "Closed",
+    "longitude": -74.01478295,
+    "latitude": 40.70864545
+  },
+  {
+    "name": "Catholic Charities Bronx Legal Services",
+    "address": "402 E 152nd St, The Bronx, NY 10455",
+    "status": "Unknown",
+    "longitude": -73.91663757,
+    "latitude": 40.81800191
+  },
+  {
+    "name": "Brooklyn Legal Services",
+    "address": "105 Court St 4th floor, Brooklyn, NY 11201",
+    "status": "Unknown",
+    "longitude": -73.99156386,
+    "latitude": 40.69090644
+  },
+  {
+    "name": "Justice for Our Neighbors",
+    "address": "475 Riverside Dr #1505, New York, NY 10115",
+    "status": "Unknown",
+    "longitude": -73.96398227,
+    "latitude": 40.81095127
+  }
+]
