@@ -20,6 +20,7 @@ $.getJSON('./data/partnerorgs.json', function(partnerOrgs) {
       </div>
         <h3>${partnerOrg.name}</h3>
         <h4>Intake Status: ${partnerOrg.status}</h4>
+        <div>${partnerOrg.contact}</div>
         <div>${partnerOrg.address}</div>
       </div>
     `
