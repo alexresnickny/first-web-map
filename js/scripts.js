@@ -40,48 +40,10 @@ $.getJSON('./data/partnerorgs.json', function(partnerOrgs) {
     }
 
     new mapboxgl.Marker({
-      color: color
-    })
-    .setLngLat([partnerOrg.longitude, partnerOrg.latitude])
-    .setPopup(new mapboxgl.Popup().setHTML(html)) //adding first popup
-    .addTo(map);
+        color: color
+      })
+      .setLngLat([partnerOrg.longitude, partnerOrg.latitude])
+      .setPopup(new mapboxgl.Popup().setHTML(html)) //adding first popup
+      .addTo(map);
   })
 })
-
-
-// var marker = new mapboxgl.Marker({
-//   color: 'red'
-// })
-// .setLngLat([-74.0060, 40.7128])
-// .setPopup(new mapboxgl.Popup().setHTML("<h1>We got it!</h1")) //adding first popup
-// .addTo(map);
-//
-//
-// //set up practice data in an array
-// var practiceData = [
-//   {
-//     name: 'Astoria',
-//     point: [-73.928875,40.764723]
-//   },
-//   {
-//     name: 'Flatbush',
-//     point: [-73.961462,40.653458]
-//   },
-//   {
-//      name: 'Ridgewood',
-//      point: [-73.905749,40.703362]
-//   },
-//   {
-//      name: 'Brighton Beach',
-//      point: [-73.968354,40.579571]
-//   }
-// ]
-//
-// practiceData.forEach(function(data) {
-//   console.log(data.name, data.point)
-//
-//   new mapboxgl.Marker()
-//   .setLngLat(data.point)
-//   .setPopup(new mapboxgl.Popup().setHTML(`<h1>${data.name}</h1>`)) //adding first popup
-//   .addTo(map);
-// })
